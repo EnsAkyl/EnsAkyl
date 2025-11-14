@@ -11,8 +11,8 @@ I graduated from Mersin University with a degree in Computer Engineering. I main
 ---
 <div align="center">
 <div style="display: flex; justify-content: center; gap: 10px;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsAkyl&layout=compact&theme=gruvbox&hide_border=true&card_width=400" alt="Most Used Languages" style="height: 195px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EnsAkyl&theme=gruvbox&hide_border=true&card_width=510" alt="GitHub Streak" style="height: 195px;" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsAkyl&layout=compact&theme=gruvbox&hide_border=true&card_width=250" alt="Most Used Languages" style="height: 195px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EnsAkyl&theme=gruvbox&hide_border=true&card_width=410" alt="GitHub Streak" style="height: 195px;" />
  <!--<img src="https://github-readme-stats.vercel.app/api?username=EnsAkyl&show_icons=true&hide_border=true&theme=gruvbox&card_width=700" alt="GitHub Streak" style="height: 195px;" />-->
 </div>
 
