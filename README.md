@@ -49,9 +49,6 @@ I graduated from Mersin University with a degree in Computer Engineering. I main
 
 ## 📬 Get in Touch
 <p align="center">
-  <a href="https://www.instgram.com/ensaky0l" alt="İnstgram Logo">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/enesakyol19/" alt="Linkedin Logo">
      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
