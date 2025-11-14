@@ -1,19 +1,25 @@
-# Hi, I'm Enes AKYOL 👋
+# Hi, I'm Enes AKYOL :wave:
 
 I graduated from Mersin University with a degree in Computer Engineering. I mainly develop mobile applications, and I have also worked on high availability and cluster architectures. I take every opportunity to improve myself both personally and professionally. 
 
----
- 
-![Enes AKYOL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnsAkyl&show_icons=true&include_all_commits=true&count_private=true&title_color=00ffb0&text_color=ffffff&icon_color=00ffb0&bg_color=000000&hide_border=true&hide=contribs) ![Most Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnsAkyl&layout=compact&title_color=00ffb0&text_color=ffffff&bg_color=000000&hide_border=true&theme=dark)
-
-
-## 🚀 About Me
+## About Me
 - 🔭 I'm currently not working anywhere, but I hope to update this soon.
 - 📜 I have obtained some certificates, including the [SiberVatan](https://www.sibervatan.org/) Cyber Homeland Training.
 - 💻 I completed a comprehensive internship program at [ePati Cybersecurity Inc](https://www.epati.com.tr/tr/), where I worked on a dealer panel web application and containerization technologies. 
 - 💻 I completed my short-term internship at [Datakent](https://www.datakent.com/), where I developed a mobile application.
 
 ---
+<div align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnsAkyl&layout=compact&theme=gruvbox&hide_border=true&card_width=400" alt="Most Used Languages" style="height: 195px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EnsAkyl&theme=gruvbox&hide_border=true&card_width=510" alt="GitHub Streak" style="height: 195px;" />
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=EnsAkyl&show_icons=true&hide_border=true&theme=gruvbox&card_width=700" alt="GitHub Streak" style="height: 195px;" />-->
+</div>
+
+</div>
+
+---
+
 
 ## Tech Stack
 
@@ -35,7 +41,7 @@ I graduated from Mersin University with a degree in Computer Engineering. I main
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Mastering the fundamentals of **Full-Stack Web Development**.
 
@@ -47,7 +53,7 @@ I graduated from Mersin University with a degree in Computer Engineering. I main
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 <p align="center">
   <a href="https://www.linkedin.com/in/enesakyol19/" alt="Linkedin Logo">
      <img src="https://skillicons.dev/icons?i=linkedin" />
